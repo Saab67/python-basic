@@ -1,3 +1,4 @@
+# for_review
 class LowFuelError(Exception):
     pass
 
@@ -8,3 +9,4 @@ class NotEnoughFuel(Exception):
 
 class CargoOverload(Exception):
     pass
+
